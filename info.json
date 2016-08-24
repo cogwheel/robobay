@@ -1,0 +1,11 @@
+{
+    "name": "robobay",
+    "version": "0.0.1",
+    "factorio_version": "0.13",
+    "title": "Cogwheel's Robobay",
+    "author": "Cogwheel",
+    "contact": "http://example.com/forumpost",
+    "homepage": "http://example.com/forumpost",
+    "description": "Adds robobays for earlier personal construction bots",
+    "dependencies": ["base >= 0.13.0"]
+}
